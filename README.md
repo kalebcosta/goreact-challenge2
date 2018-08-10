@@ -1,2 +1,2 @@
-# goreact-challenge1
-Rocketseat - GoReact - Challenge #1
+# goreact-challenge2
+Rocketseat - GoReact - Challenge #2
